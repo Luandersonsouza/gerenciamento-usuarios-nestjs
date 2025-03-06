@@ -16,7 +16,7 @@ Desenvolvida em NestJS, TypeORM e PostgreSQL.
 
 ### 1. Clone e Instalação
 ```bash
-git clone https://github.com/Luandersonsouza/gerenciamento-usuarios-nestjs
+git clone git@github.com:Luandersonsouza/gerenciamento-usuarios-nestjs.git
 cd seu-projeto
 npm install
 ```
